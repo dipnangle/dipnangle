@@ -24,3 +24,4 @@ I enjoy diving into new technologies and solving interesting problems..
 - Linux 🐧 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux Logo" width="25">
 - JavaScript - <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript Logo" width="25">
 - ReactJs - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="javascript Logo" width="25">
+- Tailwind CSS - <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="javascript Logo" width="25">
